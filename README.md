@@ -5,7 +5,7 @@
 - Project to be done in teams of 2 people (your team: David ALAGWU, Ndango Mufamadi)
 
 # instructions
-+ code will be compiled this way:`$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c`
++ code will be compiled this way: `$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c`
 
 # Reach us
 - **David Alagwu**: Author
