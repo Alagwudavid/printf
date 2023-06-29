@@ -1,4 +1,7 @@
 #include "main.h"
+#include <stdlib.h>
+#include <stdio.h>
+
 /**
   * _print_a_char - Prints a char
   * @args: A list of variadic arguments

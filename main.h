@@ -4,10 +4,7 @@
 /**
  * inclusion
  */
-#include <stdlib.h>
 #include <stdargs.h>
-#include <stdio.h>
-#include <unistd.h>
 
 /**
   * struct specifiers - Struct specifiers
